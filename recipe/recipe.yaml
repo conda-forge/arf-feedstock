@@ -1,5 +1,5 @@
 context:
-  version: "0.6.0"
+  version: "0.7.0"
 
 package:
   name: arf
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/eitsupi/arf/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: e46300adcbbee5e6349c63bab2b2cdd863f99baea82e6ce85eb5c86d8dfcbd0c
+  sha256: 46538c0598e7af96e74c784cb07c5f44a593e90d9031bfba09542b7168ce1ed4
 
 build:
   number: 0
